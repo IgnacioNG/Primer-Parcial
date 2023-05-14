@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "64612cfee212cd4742a7c066",
+    "name": "Juan Perez",
+    "img": "https://picsum.photos/400/225",
+    "description": "Cliente de la empresa desde hace 2 años",
+    "project_id": [
+      "645f29ffdac9eaf31677344c",
+      "64606aa73f3aefe704960056",
+      "646070832850862234248588",
+      "64613091abd15a1d75f717fc"
+    ]
+  },
+  {
+    "_id": "64612cfee212cd4742a7c067",
+    "name": "María García",
+    "img": "https://picsum.photos/400/225",
+    "description": "Cliente de la empresa desde hace 3 años. Se especializa en la creación de contenido para redes sociales.",
+    "project_id": [
+      "645f29ffdac9eaf31677344d",
+      "6460703c2850862234248581",
+      "6460704a2850862234248582",
+      "646070692850862234248585"
+    ]
+  },
+  {
+    "_id": "64612cfee212cd4742a7c068",
+    "name": "Carlos Pérez",
+    "img": "https://picsum.photos/400/225",
+    "description": "Cliente nuevo. Busca desarrollar una aplicación móvil para su negocio de reparto de alimentos a domicilio.",
+    "project_id": [
+      "645f29ffdac9eaf31677344e",
+      "646070572850862234248583"
+    ]
+  },
+  {
+    "_id": "64612cfee212cd4742a7c069",
+    "name": "Ana Torres",
+    "img": "https://picsum.photos/400/225",
+    "description": "Cliente recurrente que ha trabajado en varios proyectos de la empresa. Es experta en diseño gráfico.",
+    "project_id": [
+      "6460707c2850862234248587",
+      "646070602850862234248584",
+      "645f29ffdac9eaf31677344f"
+    ]
+  },
+  {
+    "_id": "64612cfee212cd4742a7c06a",
+    "name": "María Rodríguez",
+    "img": "https://picsum.photos/400/225",
+    "description": "Cliente de la empresa desde hace 5 años",
+    "project_id": [
+      "646070712850862234248586",
+      "645f29ffdac9eaf316773451",
+      "645f29ffdac9eaf316773450"
+    ]
+  },
+  {
+    "_id": "64613d47eb442ee6822fb6af",
+    "name": "Julian Gomez",
+    "img": "https://picsum.photos/400/225",
+    "description": "Cliente de la empresa desde hace 1 años",
+    "project_id": []
+  }
+]

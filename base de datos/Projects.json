@@ -1,0 +1,252 @@
+[
+  {
+    "_id": {
+      "$oid": "645f29ffdac9eaf31677344c"
+    },
+    "name": "Crazy Runner",
+    "description": "Obstacle race game",
+    "link": "http://miweb.com/crazy-runner",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Unity",
+      "C#"
+    ],
+    "section": "game",
+    "cliente_id": "64612cfee212cd4742a7c066"
+  },
+  {
+    "_id": {
+      "$oid": "645f29ffdac9eaf31677344d"
+    },
+    "name": "EcoMarket",
+    "description": "Eco-friendly products e-commerce platform",
+    "link": "http://miweb.com/ecomarket",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express"
+    ],
+    "section": "ecommerce",
+    "cliente_id": "64612cfee212cd4742a7c067"
+  },
+  {
+    "_id": {
+      "$oid": "645f29ffdac9eaf31677344e"
+    },
+    "name": "Healthy Recipes",
+    "description": "Website with healthy and nutritional recipes",
+    "link": "http://miweb.com/healthy-recipes",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "PHP",
+      "Laravel"
+    ],
+    "section": "webapp",
+    "cliente_id": "64612cfee212cd4742a7c068"
+  },
+  {
+    "_id": {
+      "$oid": "645f29ffdac9eaf31677344f"
+    },
+    "name": "Space Explorer",
+    "description": "Space exploration game",
+    "link": "http://miweb.com/space-explorer",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "section": "game",
+    "cliente_id": "64612cfee212cd4742a7c069"
+  },
+  {
+    "_id": {
+      "$oid": "645f29ffdac9eaf316773450"
+    },
+    "name": "Home Project",
+    "description": "Interior design and decoration website",
+    "link": "http://miweb.com/home-project",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "section": "landing",
+    "cliente_id": "64612cfee212cd4742a7c06a"
+  },
+  {
+    "_id": {
+      "$oid": "645f29ffdac9eaf316773451"
+    },
+    "name": "Weather App",
+    "description": "Weather forecast application",
+    "link": "http://miweb.com/weather-app",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "React Native",
+      "Node.js",
+      "Express"
+    ],
+    "section": "mobile",
+    "cliente_id": "64612cfee212cd4742a7c06a"
+  },
+  {
+    "_id": {
+      "$oid": "64606aa73f3aefe704960056"
+    },
+    "name": "Fitness Tracker",
+    "description": "An app to track your fitness progress",
+    "link": "http://miweb.com/fitness-tracker",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "section": "webapp",
+    "cliente_id": "64612cfee212cd4742a7c066"
+  },
+  {
+    "_id": {
+      "$oid": "6460703c2850862234248581"
+    },
+    "name": "Social Network",
+    "description": "A social network platform",
+    "link": "http://miweb.com/social-network",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Angular",
+      "Node.js",
+      "MongoDB"
+    ],
+    "section": "webapp",
+    "cliente_id": "64612cfee212cd4742a7c067"
+  },
+  {
+    "_id": {
+      "$oid": "6460704a2850862234248582"
+    },
+    "name": "Travel Planner",
+    "description": "An app to plan your travels",
+    "link": "http://miweb.com/travel-planner",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "React Native",
+      "Node.js",
+      "MongoDB"
+    ],
+    "section": "mobile",
+    "cliente_id": "64612cfee212cd4742a7c067"
+  },
+  {
+    "_id": {
+      "$oid": "646070572850862234248583"
+    },
+    "name": "Zombie Runner",
+    "description": "Survival game in a zombie-infested world",
+    "link": "http://miweb.com/zombie-runner",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Unreal Engine",
+      "C++"
+    ],
+    "section": "game",
+    "cliente_id": "64612cfee212cd4742a7c068"
+  },
+  {
+    "_id": {
+      "$oid": "646070602850862234248584"
+    },
+    "name": "Retro Invaders",
+    "description": "Retro-style space shooter game",
+    "link": "http://miweb.com/retro-invaders",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Java",
+      "LibGDX"
+    ],
+    "section": "game",
+    "cliente_id": "64612cfee212cd4742a7c069"
+  },
+  {
+    "_id": {
+      "$oid": "646070692850862234248585"
+    },
+    "name": "Business Solutions",
+    "description": "Website for a business solutions company",
+    "link": "http://miweb.com/business-solutions",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "section": "landing",
+    "cliente_id": "64612cfee212cd4742a7c067"
+  },
+  {
+    "_id": {
+      "$oid": "646070712850862234248586"
+    },
+    "name": "Travel Agency",
+    "description": "Landing page for a travel agency",
+    "link": "http://miweb.com/travel-agency",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "section": "landing",
+    "cliente_id": "64612cfee212cd4742a7c06a"
+  },
+  {
+    "_id": {
+      "$oid": "6460707c2850862234248587"
+    },
+    "name": "Clothing Store",
+    "description": "Online store for clothing and accessories",
+    "link": "http://miweb.com/clothing-store",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "Magento",
+      "PHP",
+      "MySQL"
+    ],
+    "section": "ecommerce",
+    "cliente_id": "64612cfee212cd4742a7c069"
+  },
+  {
+    "_id": {
+      "$oid": "646070832850862234248588"
+    },
+    "name": "Tech Store",
+    "description": "Online store for electronic devices and gadgets",
+    "link": "http://miweb.com/tech-store",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "WooCommerce",
+      "WordPress"
+    ],
+    "section": "ecommerce",
+    "cliente_id": "64612cfee212cd4742a7c066"
+  },
+  {
+    "_id": {
+      "$oid": "64613091abd15a1d75f717fc"
+    },
+    "name": "Garden Store",
+    "description": "Online store for garden gadgets",
+    "link": "http://miweb.com/garden-store",
+    "img": "https://picsum.photos/400/225",
+    "technologies": [
+      "WooCommerce",
+      "WordPress"
+    ],
+    "section": "ecommerce",
+    "cliente_id": "64612cfee212cd4742a7c066"
+  }
+]
